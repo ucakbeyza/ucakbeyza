@@ -2,7 +2,7 @@
 
  ![phineas-and-ferb-computer](https://github.com/user-attachments/assets/43b308f3-9c01-423c-abf6-20c4d7dfdad2)
  
--🔭 I am in my final year of Computer Engineering.
+- 🔭 I am in my final year of Computer Engineering.
 - 👀 I’m interested in mobile and web development
 - 🌱 I’m currently learning Flutter & Dart and PHP & Laravel
 - 📫 How to reach me beyzaucak379@gmail.com
