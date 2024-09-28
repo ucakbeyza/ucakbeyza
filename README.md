@@ -1,4 +1,4 @@
-👋 ![image](https://github.com/user-attachments/assets/8c32185c-d734-4c70-9788-2bfb2076589b)
+![image](https://github.com/user-attachments/assets/8c32185c-d734-4c70-9788-2bfb2076589b)
 
  ![phineas-and-ferb-computer](https://github.com/user-attachments/assets/43b308f3-9c01-423c-abf6-20c4d7dfdad2)
 
