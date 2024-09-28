@@ -1,5 +1,6 @@
-👋 Hi, I’m Beyza
-- ![phineas-and-ferb-computer](https://github.com/user-attachments/assets/43b308f3-9c01-423c-abf6-20c4d7dfdad2)
+👋 Hi, I’m Beyza![image](https://github.com/user-attachments/assets/8c32185c-d734-4c70-9788-2bfb2076589b)
+
+ ![phineas-and-ferb-computer](https://github.com/user-attachments/assets/43b308f3-9c01-423c-abf6-20c4d7dfdad2)
 
 - 👀 I’m interested in mobile and web development
 - 🌱 I’m currently learning Flutter & Dart and PHP & Laravel
