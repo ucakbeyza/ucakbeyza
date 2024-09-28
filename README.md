@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ucakbeyza
+👋 Hi, I’m Beyza
 - ![phineas-and-ferb-computer](https://github.com/user-attachments/assets/43b308f3-9c01-423c-abf6-20c4d7dfdad2)
 
 - 👀 I’m interested in mobile and web development
