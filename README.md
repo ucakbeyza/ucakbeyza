@@ -4,7 +4,7 @@ Hi 👋👋, I'm BEYZA
  
 - 🔭 I’m currently in the final year of my Computer Engineering degree.
 - 👀 I’m interested in mobile and web development.
-- 🌱 I’m currently learning Flutter & Dart and Python, Java, C#.
+- 🌱 I’m currently learning Flutter & Dart, Python, Java, C#.
 - 📫 How to reach me beyzaucak379@gmail.com.
 
 
