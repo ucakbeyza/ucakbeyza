@@ -5,7 +5,6 @@ Hi 👋👋, I'm BEYZA
 - 🔭 I’m currently in the final year of my Computer Engineering degree.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning, Python, Java, HTML, CSS, JavaScript.
-- 👯 I enjoy UI development and design processes, and I take pleasure in creating user-friendly and aesthetic interfaces.
 - 📫 How to reach me beyzaucak379@gmail.com.
 
 
