@@ -4,7 +4,7 @@ Hi 👋👋, I'm BEYZA
  
 - 🔭 I’m currently in the final year of my Computer Engineering degree.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning and coding, Python, Java, HTML, CSS, JavaScript(React), PHP(laravel).
+- 🌱 I’m currently learning and coding, PHP(Laravel), MySQL, Python, Java, HTML, CSS, and JavaScript.
 - 📫 How to reach me beyzaucak379@gmail.com.
 
 
