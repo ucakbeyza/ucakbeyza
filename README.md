@@ -5,7 +5,6 @@ Hi 👋👋, I'm BEYZA
 - 🔭 I’m currently in the final year of my Computer Engineering degree.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning and coding, PHP(Laravel), MySQL, Python, Java, HTML, CSS, and JavaScript.
-- https://www.hackerrank.com/profile/beyzaucak379
 - 📫 How to reach me beyzaucak379@gmail.com.
 
 
