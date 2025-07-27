@@ -2,9 +2,9 @@ Hi 👋👋, I'm BEYZA
 
  ![phineas-and-ferb-computer](https://github.com/user-attachments/assets/43b308f3-9c01-423c-abf6-20c4d7dfdad2)
  
-- 🔭 I’m currently in the final year of my Computer Engineering degree.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning and coding, PHP(Laravel), MySQL, Python, Java, HTML, CSS, and JavaScript.
+- 👩‍💻 I just graduated from computer engineering
+- 💻 I’m interested in web development.
+- 🌱 I’m currently learning and coding, PHP(Laravel), Go, Node.js, Python, Java, C.
 - 📫 How to reach me beyzaucak379@gmail.com.
 
 
