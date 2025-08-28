@@ -2,7 +2,8 @@ Hi 👋👋, I'm BEYZA
 
  ![phineas-and-ferb-computer](https://github.com/user-attachments/assets/43b308f3-9c01-423c-abf6-20c4d7dfdad2)
  
-- 👩‍💻 I just graduated from computer engineering / Backend Developer Intern at Teknasyon.
+- 👩‍💻 I just graduated from computer engineering
+- 🤓 Backend Developer Intern at Teknasyon.
 - 💻 I’m interested in web development.
 - 🌱 I’m currently learning and coding, PHP(Laravel), Python, Java, C.
 - 📫 How to reach me beyzaucak379@gmail.com.
