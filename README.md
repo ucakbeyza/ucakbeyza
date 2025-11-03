@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **`Go, Node.js, Express.js`**
 - 🔭 I’m currently working on **`eCommerce Project`**
-**
-- 📫 How to reach me: beyzaucak379@gmail.com
+- 📫 How to reach me: `beyzaucak379@gmail.com`
 - 💼 **Open to:**`Startup roles, Internships, Collaborations, Full-Time Positions`
   
 ---
