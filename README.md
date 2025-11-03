@@ -5,10 +5,10 @@
 ### 👩‍💻 About Me
 -I graduated from the Department of Computer Engineering in 2025. Throughout my education, I worked as a software instructor and student assistant, continuously improving my skills. I completed both a six-month mentorship program and a subsequent two-month backend development internship at Teknasyon. I'm currently developing my web technology skills.
 
-- 🌱 I’m currently learning **`Go, Node.js, Express.js`**
-- 🔭 I’m currently working on **`eCommerce Project`**
-- 📫 How to reach me: `beyzaucak379@gmail.com`
-- 💼 **Open to:**`Startup roles, Internships, Collaborations, Full-Time Positions`
+- 🌱 I’m currently learning Go, Node.js, Express.js
+- 🔭 I’m currently working on eCommerce Project
+- 📫 How to reach me: beyzaucak379@gmail.com
+- 💼 **Open to: Startup roles, Internships, Collaborations, Full-Time Positions
   
 ---
 
