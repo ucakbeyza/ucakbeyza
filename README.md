@@ -16,7 +16,7 @@ I graduated from the Department of Computer Engineering in 2025. Throughout my e
 
 **Backend Development**
 
-`PHP` `Node.js` 
+`PHP` `Node.js` `Java` `C#`
 
 **Frameworks**
 
